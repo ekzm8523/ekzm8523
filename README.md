@@ -9,7 +9,7 @@
   
   <a href="https://github.com/ekzm8523"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekzm8523&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a><a href="https://solved.ac/profile/ekzm8523"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ekzm8523"/></a>
 
-  <a href="https://github.com/ekzm8523/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=ekzm8523&color=dark"></a>
+  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=ekzm8523"><img src="https://velog-readme-stats.vercel.app/api?name=ekzm8523&color=dark"></a>
 
   <br>
  
