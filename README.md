@@ -1,18 +1,18 @@
-### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekzm8523&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
 
-<!--
-**ekzm8523/ekzm8523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐾 Jaewon 🐾
 
-Here are some ideas to get you started:
+현재 저는 <a href="https://github.com/SW13-Monstera">🍀Monstera</a> 에서 CS 문제풀이 사이트인 <a href="https://csbroker.io/">📚CS Broker</a>를 개발중입니다!!<br> 꾸준히 공부를 해가며 문제를 만들어 올릴테니 많은 관심 부탁드립니다 🎊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekzm8523&theme=dracula&hide=Procfile&layout=compact&langs_count=6"/>
+  
+  <a href="https://github.com/ekzm8523"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekzm8523&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+  <a href="https://solved.ac/profile/ekzm8523"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ekzm8523"/></a>
+
+  <a href="https://github.com/ekzm8523/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=ekzm8523&color=dark"></a>
+
+  <br>
+ 
+</div>
