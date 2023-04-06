@@ -2,7 +2,7 @@
 <div align="center">
 
 ### 🐾 Jaewon 🐾
-현재 저는 <a href="https://github.com/SW13-Monstera">🍀Monstera</a> 에서 CS 문제풀이 사이트인 <a href="https://csbroker.io/">📚CS Broker</a>를 개발중입니다!!<br> 꾸준히 공부를 해가며 문제를 만들어 올릴테니 많은 관심 부탁드립니다 🎊
+현재 저는 <a href="https://github.com/SW13-Monstera">🍀Monstera</a> 에서 CS 문제풀이 사이트인 <a href="https://csbroker.io/">📚CS Broker</a>를 개발중입니다!!<br>
 
   ---
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekzm8523&theme=dracula&hide=Procfile&layout=compact&langs_count=6"/>
